@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitor Edson (@vitoredsonrs)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning C & python
 - 📫 How to reach me: Instagram - @thevitoredson
 
 <!---
