@@ -1,6 +1,6 @@
 ## Hi there! I'm Vitor Edson.
 
-- 💻 I’m a Computer Science student.
+- 💻 Computer Science student.
 - 📘 Learning C & Python.
 
 <div align="center">
