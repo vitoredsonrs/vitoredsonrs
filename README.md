@@ -18,7 +18,7 @@
   <img align="center" alt="Vitor-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
  
 </div>
-<a href="https://linktr.ee/thevitoredson" target="_blank">##Social Midia</a>
+<a href="https://linktr.ee/thevitoredson" target="_blank">Social Midia</a>
 <div> 
     <a href="https://www.linkedin.com/in/vitoredson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/cB6p46YYAd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">   </a> 
