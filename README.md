@@ -1,7 +1,8 @@
 ## Hi there! I'm Vitor Edson.
 
 - 💻 Computer Science student;
-- 📘 Learning C & Python.
+- 📘 Learning C & Python;
+- 🌐 Web Developer in training.
 <div align="center">
   <a href="https://github.com/vitoredsonrs?tab=repositories">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitoredsonrs&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
